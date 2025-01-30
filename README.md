@@ -106,3 +106,5 @@ https://marketplace.visualstudio.com/items?itemName=dineug.vuerd-vscode
 `psql -U postgres -f create_oficina.sql -f insert_oficina.sql -f query_oficina.sql`
 
 **[Explorando Comandos Básicos no PostgreSQL (Windows)](https://github.com/DavidRufino/Minha-Anotacoes-Heineken-Intelig-ncia-Artificial-Dados-Copilot/blob/main/2-3.%20Modelagem%20de%20Dados%20para%20Banco%20de%20Dados/README.md#explorando-comandos-b%C3%A1sicos-no-postgresql-windows)**
+
+**[Ferramentas de Design](https://github.com/DavidRufino/Minha-Anotacoes-Heineken-Intelig-ncia-Artificial-Dados-Copilot/blob/main/3-4.%20Refinando%20um%20Projeto%20Conceitual%20de%20Banco%20de%20Dados%20%E2%80%93%20E-COMMERCE/README.md#ferramentas-de-design)**
